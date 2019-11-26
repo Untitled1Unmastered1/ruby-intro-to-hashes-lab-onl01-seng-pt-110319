@@ -27,7 +27,7 @@ end
 def monopoly_with_third_tier
    monopoly = {railroads: 
    {pieces: 4, 
-   names: 
+   names: {reading_railroad 
 end
 
 def monopoly_with_fourth_tier
